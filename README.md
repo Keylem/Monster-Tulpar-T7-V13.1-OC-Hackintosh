@@ -28,11 +28,10 @@ What's NOT working?
 - Birhtness up and down keys
 - Keyboard backlight control
 - AirDrop
-- CPU
-- AppleXcpmCfgLock setting on OpenCore
+- Native XCPM --> AppleXcpmCfgLock setting on OpenCore
 
 Not Tested
-- Hibernation
+- Hibernation (but probably fine)
 
 NOTE
 --
