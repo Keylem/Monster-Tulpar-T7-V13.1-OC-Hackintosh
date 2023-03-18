@@ -35,4 +35,4 @@ Not Tested
 
 NOTE
 --
-- Dualbooting with windows certainly guarantees you a blue screen! That is because OpenCore trys to inject every patch for every OS possible on startup.
+- Dualbooting with windows certainly guarantees you a blue screen! That is because OpenCore tries to inject every patch for every OS possible on startup.
